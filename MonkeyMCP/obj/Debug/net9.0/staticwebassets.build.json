@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oiTJDkr4xGTbgwBn8NLprLlY2eKLcqBBLU7DqCCYx2o=",
+  "Source": "MonkeyMCP",
+  "BasePath": "_content/MonkeyMCP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
